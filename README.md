@@ -1,4 +1,6 @@
 ### Hey, my name is Amy, Welcome to my Github!👋
+ 🌱 • Student studying BSc (Hons) in Creative Computing in IADT, currently in my final year.
+ 🔭 • Currently working on my Major Project - A mobile application using MERN stack with React Native. 
 
 <!--
 **amyrintoul/amyrintoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
